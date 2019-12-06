@@ -1,0 +1,80 @@
+  h1.text1 {
+    text-align: left;
+    font-size: 25px;
+  }
+
+  .text2 {
+    text-align: left;
+    font-size: 21px;
+    color: darkgrey;
+  }
+
+  .fullCard {
+    margin: auto;
+    width: 30%;
+    overflow: auto;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 4px;
+  }
+  
+  .prodplace {
+    margin: auto;
+    width: 80%;
+    overflow: auto;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 4px;
+  }
+
+  .card {
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6);
+      transition: 0.3s;
+      width: 148.5px;
+      background: white;
+      text-align: center;
+      font-size: 10px;
+      font-family: sans-serif;
+      float: left;
+      border: 1px solid rgb(0, 0, 0);
+
+  }
+
+  .button {
+    border-radius: 4px;
+    background-color:blue; 
+    border: none;
+    color: white;
+    padding: 5px 60px 5px 60px; 
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+  }
+
+  .container {
+    padding: 2px 16px;
+  }
+
+  #logo {
+      margin-left: 0.5%;
+  }
+
+  #footer {
+      text-align: center;
+  }
+
+  div.absolute1 {
+    position: left;
+    width: 50%;
+    border: 1px solid rgb(0, 0, 0);
+  }
+
+  div.absolute2 {
+    position: right;
+  
+  }
+
+
+  #textorientation {
+      text-align: right;
+  }
